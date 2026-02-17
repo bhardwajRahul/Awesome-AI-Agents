@@ -120,6 +120,7 @@ Quickly build and customize agents.
 - [Hector](https://github.com/kadirpekel/hector) - Pure A2A-Native Declarative AI Agent Platform ![GitHub Repo stars](https://img.shields.io/github/stars/kadirpekel/hector?style=social)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. ![GitHub Repo stars](https://img.shields.io/github/stars/voltagent/voltagent?style=social)
 - [pydantic-collab](https://github.com/boazkatzir/pydantic-collab) - A multi-agent framework powered by Pydantic-AI, enabling collaboration via handoffs and consultations. Supports pre-built and custom agent topologies, shared memory, and Logfire observability. ![GitHub Repo stars](https://img.shields.io/github/stars/boazkatzir/pydantic-collab?style=social)
+- [alive](https://github.com/TheAuroraAI/alive) - Minimal autonomous AI agent framework in a single Python file. Production-hardened through 80+ sessions of real autonomous operation with persistent memory, adaptive wake intervals, circuit breakers, and graceful degradation. ![GitHub Repo stars](https://img.shields.io/github/stars/TheAuroraAI/alive?style=social)
 
 
 ## Benchmark/Evaluator
