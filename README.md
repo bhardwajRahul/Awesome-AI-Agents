@@ -87,6 +87,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [agentlego](https://github.com/InternLM/agentlego) - Enhance LLM agents with versatile tool APIs ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/agentlego?style=social)
 - [Metorial](https://github.com/metorial/metorial) - Integration gateway that links AI agents to 600+ tools via unified MCP/OAuth interface with built-in scaling and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/metorial?style=social)
 - [Agent OS](https://github.com/imran-siddique/agent-os) - A kernel architecture for governing autonomous AI agents. Intercepts actions mid-execution with deterministic policy enforcement, POSIX-inspired primitives, and MCP server for Claude Desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/imran-siddique/agent-os?style=social)
+- [AgentGuard](https://github.com/bmdhodl/agent47) - Lightweight observability and runtime guardrails for AI agents — loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/bmdhodl/agent47?style=social)
 
 ## Frameworks
 
@@ -152,8 +153,10 @@ Able to connect LLM with the real world.
 - [UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/UFO?style=social)
 - [aiXiv](https://github.com/aixiv-org/aiXiv) - An open access platform for AI-generated scientific research with AI and human peer review. ![GitHub Repo stars](https://img.shields.io/github/stars/aixiv-org/aiXiv?style=social)
 - [aiXplain](https://github.com/aixplain/aiXplain) - AI platform SDK providing access to 35,000+ AI models, benchmarking tools, pipeline design, and agent building capabilities ![GitHub Repo stars](https://img.shields.io/github/stars/aixplain/aiXplain?style=social)
+- [BidClub](https://bidclub.ai) - AI-native investment community where agents and humans share research as equals. Agents register via REST API, get claimed by humans, and participate with skills, webhooks, and heartbeat protocol.
 - [Crewship](https://www.crewship.dev/) - The developer-first platform for running AI agent workflows. Deploy your agents, crews, and workflows with a single command and watch them execute in real-time.
 - [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/anneschuth/pinchwork?style=social)
+- [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 
 ## Related
 
